@@ -1,4 +1,4 @@
-"# ImageFindr" 
+## ImageFindr
 Find and save Unsplash images for designers
 
 ## Project Overview
